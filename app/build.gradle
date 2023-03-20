@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace 'com.plcoding.bluetoothchat'
+    namespace 'com.ft.bluetoothchat'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.plcoding.bluetoothchat"
+        applicationId "com.ft.bluetoothchat"
         minSdk 24
         targetSdk 33
         versionCode 1
